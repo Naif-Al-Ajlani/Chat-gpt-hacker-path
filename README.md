@@ -18,4 +18,5 @@ Welcome to the Ethical Hacking Learning Resource! This guide is designed to prov
 * Web Application Hacking
 * System Hacking
 * Ethical Hacking Tools
+* AI-Powered Vulnerability Scanning
 * Additional Resources
